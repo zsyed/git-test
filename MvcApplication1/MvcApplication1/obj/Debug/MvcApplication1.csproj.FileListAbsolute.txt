@@ -47,3 +47,9 @@ C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\DotNetOpen
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\eManager.Domain.dll
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\eManager.Domain.pdb
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureMap.dll
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\WebActivator.dll
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureMap.pdb
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureMap.xml
