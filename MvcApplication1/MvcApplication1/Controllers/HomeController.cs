@@ -21,15 +21,6 @@ namespace MvcApplication1.Controllers
         {
             var depts = _db.Departments;
 
-            /*
-            var dept = new Department { Name = "Sales" };
-            var dept1 = new Department { Name = "Engineering" };
-
-            var depts = new List<Department>();
-            depts.Add(dept);
-            depts.Add(dept1);
-            */
-
             return View(depts);
         }
 

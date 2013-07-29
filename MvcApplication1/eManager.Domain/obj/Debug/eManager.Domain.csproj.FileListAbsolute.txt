@@ -2,3 +2,4 @@ C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\bin\Debug\eMan
 C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\bin\Debug\eManager.Domain.pdb
 C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\obj\Debug\eManager.Domain.dll
 C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\obj\Debug\eManager.Domain.pdb
+C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\obj\Debug\eManager.Domain.csprojResolveAssemblyReference.cache
