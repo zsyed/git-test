@@ -1,0 +1,4 @@
+C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\bin\Release\eManager.Domain.dll
+C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\bin\Release\eManager.Domain.pdb
+C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\obj\Release\eManager.Domain.dll
+C:\projects\MyGitProject\git-test\MvcApplication1\eManager.Domain\obj\Release\eManager.Domain.pdb

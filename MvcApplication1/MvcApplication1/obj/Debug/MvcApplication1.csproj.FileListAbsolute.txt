@@ -53,3 +53,5 @@ C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureM
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\WebActivator.dll
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureMap.pdb
 C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\bin\StructureMap.xml
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.Migrations.Initial.resources
+C:\projects\MyGitProject\git-test\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csproj.GenerateResource.Cache

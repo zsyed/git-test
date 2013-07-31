@@ -179,6 +179,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\DepartmentDb.cs" />
+    <Compile Include="Migrations\201307310212208_Initial.cs" />
+    <Compile Include="Migrations\201307310212208_Initial.Designer.cs">
+      <DependentUpon>201307310212208_Initial.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -240,6 +244,8 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <None Include="Properties\PublishProfiles\intelligent - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\intelligent - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
@@ -307,6 +313,11 @@
       <Project>{6d2af5f4-ceae-4f80-8687-667836f4e4cb}</Project>
       <Name>eManager.Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201307310212208_Initial.resx">
+      <DependentUpon>201307310212208_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
