@@ -11,7 +11,7 @@ namespace MvcApplication1.Controllers
     {
         //
         // GET: /Employee/
-
+        [HttpGet]
         public ActionResult Create(int DepartmentId)
         {
             var model = new CreateEmployeeViewModel();
@@ -19,6 +19,16 @@ namespace MvcApplication1.Controllers
             model.DepartmentId = DepartmentId;
 
             return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult Create(CreateEmployeeViewModel view)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
+            return View(view);
         }
 
     }
