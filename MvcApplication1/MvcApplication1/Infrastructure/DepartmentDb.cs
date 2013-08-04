@@ -26,5 +26,11 @@ namespace MvcApplication1.Infrastructure
         {
             get { return Departments; }
         }
+
+        void IDepartmentDataSource.Save()
+        {
+            SaveChanges();
+        }
+
     }
 }
